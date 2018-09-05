@@ -36,6 +36,16 @@
         <version>1.9.4</version>
     </dependency>
   </dependencies>
+   <distributionManagement>
+    <snapshotRepository>
+      <id>SnapshotData</id>
+      <url>http://192.168.0.14:8081/repository/SnapshotData/</url>
+    </snapshotRepository>
+    <repository>
+      <id>ReleaseData</id>
+	  <url>http://192.168.0.14:8081/repository/ReleaseData/</url>
+    </repository>
+  </distributionManagement>
   <build>
     <plugins>
       <plugin>
