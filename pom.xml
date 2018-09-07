@@ -27,7 +27,7 @@
         <version>1.9.4</version>
     </dependency>
   </dependencies>
-   <distributionManagement>
+<distributionManagement>
     <snapshotRepository>
       <id>Myrepo-snap</id>
       <url>http://192.168.0.16:8081/repository/Myrepo-snap/</url>
