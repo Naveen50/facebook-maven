@@ -1,6 +1,6 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.mycompany.app</groupId>
+  <groupId>com.mycompany2.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
   <version>4.0</version>
